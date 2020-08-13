@@ -1,0 +1,26 @@
+{
+  "name": "ivn-base-theme",
+  "title": "IVN Base Theme",
+  "homepage": "http://wordpress.ivn-works.com/",
+  "copyright": "2015",
+  "version": "1.0.0",
+  "devDependencies": {
+    "autoprefixer": "6.3.6",
+    "grunt": "1.0.4",
+    "grunt-combine-media-queries": "1.0.19",
+    "grunt-contrib-clean": "1.0.0",
+    "grunt-contrib-concat": "0.5.1",
+    "grunt-contrib-cssmin": "0.14.0",
+    "grunt-contrib-jshint": "0.11.0",
+    "grunt-contrib-uglify": "0.9.2",
+    "grunt-express": "1.4.1",
+    "grunt-file-hash": "0.1.6",
+    "grunt-open": "0.2.3",
+    "grunt-postcss": "0.8.0",
+    "grunt-sass": "3.1.0",
+    "jit-grunt": "0.9.1",
+    "node-sass": "4.13.1",
+    "pixelsmith": "1.2.0",
+    "postcss-urlrev": "1.2.0"
+  }
+}

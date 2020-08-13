@@ -1,0 +1,39 @@
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+  position: relative;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  min-height: 100%;
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  font: 400 15px/1.6 sans-serif;
+  overflow-x: hidden;
+  background: #fff;
+  color: #000;
+  margin: 0;
+}
+
+a {
+  background-color: transparent;
+  text-decoration: none;
+
+  &:active,
+  &:hover {
+    outline: 0;
+  }
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
